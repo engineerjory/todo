@@ -1,0 +1,11 @@
+
+
+
+{
+  "helloWorld": "Hello World!",
+ "language" : "Language",
+  "mode" : "Mode",
+  "light" : "Light",
+  "dark" : "Dark"
+
+}
